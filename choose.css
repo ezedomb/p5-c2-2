@@ -1,0 +1,28 @@
+body {
+    background-color: limegreen;
+    padding: 3%;
+}
+
+.choose {
+    text-align: center;
+    font-family: 'Redressed', sans-serif;
+}
+h2 {
+    font-family: 'Redressed', sans-serif, lime;
+    text-align: center;
+    font-size: 260%;
+}
+.cuerpo {
+    align-self: center;
+    text-align: center;
+}
+#broli {
+    width: 20%;
+}
+.cyoa {
+    width: 20%;
+    text-align: center;
+}
+#alpiste {
+    width: 20%;
+}
